@@ -8,4 +8,4 @@ Tourism management system
   -> Database: MySQL
 
 # Live Preview
-http://tourville.great-site.net/
+http://tourville.infinityfreeapp.com/
